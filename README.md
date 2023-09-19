@@ -64,7 +64,7 @@
   <img width=390 src="https://streak-stats.demolab.com?user=wiuudev&theme=tokyonight-duo" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=wiuudev&theme=transparent&show_icons=true" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiuudev&theme=tokyonight" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiuudev&theme=transparent" alt="top langs" />
 </div>
 
 <br/><br/>
