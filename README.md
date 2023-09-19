@@ -45,34 +45,4 @@
   
 </div>
 
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/wiuudev/wiuudev/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com?user=wiuudev&theme=tokyonight-duo" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=wiuudev&theme=transparent&show_icons=true" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiuudev&theme=transparent" alt="top langs" />
-</div>
-
-<br/><br/>
-<hr/>
-
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&color=07BBFF&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Send+me+a+message+on+Linkedin!;I'm+open+to+work+:)">
-</h3>
-
-<br/>
 
