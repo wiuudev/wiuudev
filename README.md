@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wiuudev&label=Profile%20views&color=0e75b6&style=flat" alt="wiuudev" /> </p>
 
-<p align="left"> <a href="https://twitter.com/wiuudev" target="blank"><img src="https://img.shields.io/twitter/follow/wiuudev?logo=twitter&style=for-the-badge" alt="wiuudev" /></a> </p>
+- 🔭 I’m currently working as **coordinator of 3D, 2D, VR/AR game development teams as a senior software engineer using Uniy Engine at Play2Make Studios.**
 
 - 🌱 I’m currently learning **Backend with .NET and NodeJS.**
+
+- 👯 I’m looking to collaborate on **game and web development.**
 
 - 💬 Ask me about **game development and .NET Framework.**
 
