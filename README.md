@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&color=07BBFF&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+You+can+call+me;+Wiuu!;" />
 </h1>
 
-<h3 align="center">I have been self-taught in game development for over 10 years</h3>
+<h3 align="center">I have been self-taught in game development for over 8 years</h3>
 
 <br/>
 
