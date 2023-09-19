@@ -6,4 +6,6 @@
 - 💬 Ask me about game development and .NET Framework.
 - 📫 How to reach me: wiuudocs@gmail.com
 - ⚡ Fun fact: I live in Rio Grande do Sul, I am self-taught, I learned to program games on the Unity Engine when I was 15 years old and today I work as a professional in the field. I'm currently studying Software Engineering.
--->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wiuudev&hide=stars,prs&show_icons=true&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiuudev&hide_progress=true)
