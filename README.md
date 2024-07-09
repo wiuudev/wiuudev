@@ -12,8 +12,6 @@
  
 🔭 I’m currently working as **coordinator of 3D, 2D, VR/AR game development teams as a senior software engineer using Unity Engine at Play2Make Studios.**
  
-🌱 I’m currently learning **Game Backend with NodeJS.**
-
 👯 I’m looking to collaborate on **game and web development.**
 
 💬 Ask me about **game development and .NET Framework.**
