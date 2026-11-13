@@ -2,7 +2,7 @@
 
 **Senior Software Engineer e Coordenador de Desenvolvimento · Play2Make Studios**
 
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:wiuudocs@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wiuur/) [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://wiuu.dev)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:wiuudocs@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wiuur/) [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://wiuu.dev) [![Play2Make](https://img.shields.io/badge/Play2Make-1F6FEB?style=for-the-badge)](https://www.play2make.com)
 
 ---
 
